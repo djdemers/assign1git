@@ -1,5 +1,4 @@
 # assign1git
 David DeMers
 
-This is a change on newbranch
-
+resolve merge conflicts
